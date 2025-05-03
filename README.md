@@ -1,54 +1,67 @@
 ## 👋 Hi there! I'm Thierno Madiou Diallo
 
-🎨 Graphic Designer | 👨‍💻 Web Developer | 📰 Content Creator
+ 👨‍💻 Frontend Developer | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer
 
-Welcome to my GitHub profile! I'm passionate about using technology and creativity to solve real-world problems, especially in media, sports, and education.
+I'm passionate about solving real-world problems using software development and data science. I love building tools that empower communities — from education to tourism, commerce, and tech empowerment in Africa.
 
 ---
 
 ### 🚀 What I'm Working On
-- ⚽ A streaming platform for African sports (Thierno Sport)
-- 🏥 A Hospital Management System (full-stack)
-- 📊 Data Science projects involving machine learning (Uber/Grab analysis)
-- 🛒 E-commerce app with Supabase backend
-- 🖼️ Graphic design for events, sports, and news
+- 🛒 **E-commerce platform** for university campus students
+- 🌍 **Tourism software** for Mamou (Guinea)
+- 🌐 **TechNexus website** – community tech club platform
+- 🎓 **3Zero Club website** (frontend development)
+- 🛍️ **Selling Poutto** – local digital store project
+
+---
+
+### 🔨 Projects I've Built
+- 📄 **CV Application project** – dynamic CV generator
+- 🏨 **Hotel website** – user-friendly reservation and showcase site
+- 🏨 **Real State Management**: Admin dashboard to manage their properties and clients to browse and by them
 
 ---
 
 ### 🌱 Currently Learning
-- 🐍 Python Flask & API development
-- 🧠 Machine Learning & Data Visualization
-- ⚙️ DevOps & CI/CD tools
-- 📱 Mobile development (React Native)
+- 📊 Data Science and Machine Learning (via ALX Africa)
+- 💻 Software Development with a focus on frontend and full-stack apps
+- 🧠 Solving algorithmic problems through real-life case studies
+
+---
+
+### 👨‍💻 Skills
+- 🌐 HTML | CSS | JavaScript | Python | React | Typescript | Tailwind | CMS 
+- ⚙️ Flask | Supabase | Git & GitHub | learning Probackend in Django with ALX
+- 🎨 Figma | Canva | Photoshop (for UI/UX and branding)
 
 ---
 
 ### 👯 Looking to Collaborate On
-- Sports tech platforms
-- Open-source design systems
-- Youth/education-focused tech initiatives in Africa
+- Educational platforms and youth development tools
+- African tech and tourism digitalization projects
+- Open-source initiatives that solve local problems
 
 ---
 
 ### 💬 Ask Me About
-- Graphic design in sports and media
-- Setting up your first web project
-- Streaming setup for small organizations
-- Community engagement via social media
+- Give me your web project 
+- Learning to code from scratch
+- Designing impactful digital content
+- Solving problems and making challenges
+- Building software MVPs on a budget
 
 ---
 
 ### 📫 Reach Me At
-- ✉️ Email: madioudiallo.dev@gmail.com
-- 🌐 Portfolio: [thiernodesign.vercel.app](https://thiernodesign.vercel.app)
-- 🐦 Twitter: [@d_madiou](https://twitter.com/d_madiou)
-- 📷 Instagram: [@d_madiou](https://instagram.com/d_madiou)
-- 🧑‍💼 LinkedIn: [Thierno Madiou Diallo](https://linkedin.com/in/d-madiou)
+- ✉️ Email: madioudiallo.dev@gmail.com  
+- 🌐 Portfolio: [thiernodesign.vercel.app](https://thiernodesign.vercel.app)  
+- 🐦 Twitter: [@d_madiou](https://twitter.com/d_madiou)  
+- 📷 Instagram: [@d_madiou](https://instagram.com/d_madiou)  
+- 💼 LinkedIn: [Thierno Madiou Diallo](https://linkedin.com/in/d-madiou)  
 
 ---
 
 ### ⚡ Fun Fact
-I’ve built a football streaming prototype with pay-per-match access, inspired by Sooka Malaysia, and I'm working to scale it across Africa.
+I'm blending design and tech to make local Guinean projects globally visible — from streaming football games to promoting regional tourism online.
 
 ---
-
