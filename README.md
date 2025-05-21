@@ -3,7 +3,6 @@
  👨‍💻 Frontend Developer | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer
 
 I'm passionate about solving real-world problems using software development and data science. I love building tools that empower communities — from education to tourism, commerce, and tech empowerment in Africa.
-![2ec1beb12df88032782f21992408e3ae](https://github.com/user-attachments/assets/34409f7c-116a-4bbb-944f-33080b60f1af)
 
 ---
 
