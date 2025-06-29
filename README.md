@@ -6,16 +6,12 @@ I'm passionate about solving real-world problems using software development and 
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I have done so far
 - 🛒 **E-commerce platform** for university campus students
 - 🌍 **Tourism software** for Mamou (Guinea)
 - 🌐 **TechNexus website** – community tech club platform
 - 🎓 **3Zero Club website** (frontend development)
 - 🛍️ **Selling Poutto** – local digital store project
-
----
-
-### 🔨 Projects I've Built
 - 📄 **CV Application project** – dynamic CV generator
 - 🏨 **Hotel website** – user-friendly reservation and showcase site
 - 🏨 **Real State Management**: Admin dashboard to manage their properties and clients to browse and by them
@@ -33,6 +29,7 @@ I'm passionate about solving real-world problems using software development and 
 - 🌐 HTML | CSS | JavaScript | Python | React | Typescript | Tailwind | CMS 
 - ⚙️ Flask | Supabase | Git & GitHub | learning Probackend in Django with ALX
 - 🎨 Figma | Canva | Photoshop (for UI/UX and branding)
+- Django: (Ongoing)
 
 ---
 
