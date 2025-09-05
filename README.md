@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Thierno Madiou Diallo
 
- 👨‍💻 Frontend Developer | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer
+ 👨‍💻 Graduated Software Engineer at ALX Africa | 📊 Graduated Data Analyst at ALX | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer
 
 I'm passionate about solving real-world problems using software development and data science. I love building tools that empower communities — from education to tourism, commerce, and tech empowerment in Africa.
 
@@ -15,28 +15,33 @@ I'm passionate about solving real-world problems using software development and 
 - 📄 **CV Application project** – dynamic CV generator
 - 🏨 **Hotel website** – user-friendly reservation and showcase site
 - 🏨 **Real State Management**: Admin dashboard to manage their properties and clients to browse and by them
+- 🌍 **Jobs board Portal Platform**: Full stack application with ready to use software
+- 🌍 **AirBNB**: Full stack clone using all technologies behind
+- 🌍 **Tolimoo**: It's full stack a mobile app that connect instructors and students in Guinea
 
 ---
 
 ### 🌱 Currently Learning
 - 📊 Data Science and Machine Learning (via ALX Africa)
-- 💻 Software Development with a focus on frontend and full-stack apps
-- 🧠 Solving algorithmic problems through real-life case studies
+- 📊 Data Science at Albukhary International University
 
 ---
 
 ### 👨‍💻 Skills
-- 🌐 HTML | CSS | JavaScript | Python | React | Typescript | Tailwind | CMS 
-- ⚙️ Flask | Supabase | Git & GitHub | learning Probackend in Django with ALX
+- 🌐 HTML | CSS | JavaScript | Python | React | Typescript | Tailwind | CMS | Typescript | React Native
+- ⚙️ Flask | Supabase | Git & GitHub | Django DRF
+- 📊 PowerBI | Advance SQL | Database management and design principle
 - 🎨 Figma | Canva | Photoshop (for UI/UX and branding)
-- Django: (Ongoing)
+- Golang (learning)
 
 ---
 
 ### 👯 Looking to Collaborate On
-- Educational platforms and youth development tools
-- African tech and tourism digitalization projects
-- Open-source initiatives that solve local problems
+- On any software from building the infrastructure to the production
+- Analysing dataset and intrepreting results to communicate findings by building dasboard using POWERBI
+- Desiginning and securing your database
+- Review your codes and optimize it for best practices
+- Integrating SEO into your wesbite
 
 ---
 
@@ -50,15 +55,10 @@ I'm passionate about solving real-world problems using software development and 
 ---
 
 ### 📫 Reach Me At
-- ✉️ Email: madioudiallo.dev@gmail.com  
+- ✉️ Email: madioudiallo846@gmail.com  
 - 🌐 Portfolio: [thiernodesign.vercel.app](https://thiernodesign.vercel.app)  
 - 🐦 Twitter: [@d_madiou](https://twitter.com/d_madiou)  
 - 📷 Instagram: [@d_madiou](https://instagram.com/d_madiou)  
-- 💼 LinkedIn: [Thierno Madiou Diallo](https://linkedin.com/in/d-madiou)  
-
----
-
-### ⚡ Fun Fact
-I'm blending design and tech to make local Guinean projects globally visible — from streaming football games to promoting regional tourism online.
+- 💼 LinkedIn: https://linkedin.com/in/d-madiou  
 
 ---
