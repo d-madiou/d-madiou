@@ -9,7 +9,6 @@ I'm passionate about solving real-world problems using software development and 
 ### 🚀 What I have done so far
 - 🛒 **E-commerce platform** for university campus students
 - 🌍 **Tourism software** for Mamou (Guinea)
-- 🌐 **TechNexus website** – community tech club platform
 - 🎓 **3Zero Club website** (frontend development)
 - 🛍️ **Selling Poutto** – local digital store project
 - 📄 **CV Application project** – dynamic CV generator
