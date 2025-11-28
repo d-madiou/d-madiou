@@ -1,10 +1,6 @@
-## 👋 Hi there! I'm Thierno Madiou Diallo
+# 💫 About Me:
+👋 Hi there! I'm Thierno Madiou Diallo<br><br>👨‍💻 Graduated Software Engineer at ALX Africa | 📊 Graduated Data Analyst at ALX | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer<br><br>I'm passionate about solving real-world problems using software development and data science. I love building tools that empower communities — from education to tourism, commerce, and tech empowerment in Africa.
 
- 👨‍💻 Graduated Software Engineer at ALX Africa | 📊 Graduated Data Analyst at ALX | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer
-
-I'm passionate about solving real-world problems using software development and data science. I love building tools that empower communities — from education to tourism, commerce, and tech empowerment in Africa.
-
----
 
 ### 🚀 What I have done so far
 - 🛒 **E-commerce platform** for university campus students
@@ -18,46 +14,20 @@ I'm passionate about solving real-world problems using software development and 
 - 🌍 **AirBNB**: Full stack clone using all technologies behind
 - 🌍 **Tolimoo**: It's full stack a mobile app that connect instructors and students in Guinea
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=d-madiou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=d-madiou&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d-madiou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌱 Currently Learning
-- 📊 Data Science and Machine Learning (via ALX Africa)
-- 📊 Data Science at Albukhary International University
-
----
-
-### 👨‍💻 Skills
-- 🌐 HTML | CSS | JavaScript | Python | React | Typescript | Tailwind | CMS | Typescript | React Native
-- ⚙️ Flask | Supabase | Git & GitHub | Django DRF
-- 📊 PowerBI | Advance SQL | Database management and design principle
-- 🎨 Figma | Canva | Photoshop (for UI/UX and branding)
-- Golang (learning)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=d-madiou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=d-madiou&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 👯 Looking to Collaborate On
-- On any software from building the infrastructure to the production
-- Analysing dataset and intrepreting results to communicate findings by building dasboard using POWERBI
-- Desiginning and securing your database
-- Review your codes and optimize it for best practices
-- Integrating SEO into your wesbite
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Thierno Madiou Diallo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/d-madiou) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Thierno Madiou Diallo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madioudiallo846@gmail.com) 
 
----
-
-### 💬 Ask Me About
-- Give me your web project 
-- Learning to code from scratch
-- Designing impactful digital content
-- Solving problems and making challenges
-- Building software MVPs on a budget
-
----
-
-### 📫 Reach Me At
-- ✉️ Email: madioudiallo846@gmail.com  
-- 🌐 Portfolio: [thiernodesign.vercel.app](https://thiernodesign.vercel.app)  
-- 🐦 Twitter: [@d_madiou](https://twitter.com/d_madiou)  
-- 📷 Instagram: [@d_madiou](https://instagram.com/d_madiou)  
-- 💼 LinkedIn: https://linkedin.com/in/d-madiou  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
