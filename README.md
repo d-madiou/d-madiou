@@ -1,15 +1,12 @@
 # 💫 About Me:
 👋 Hi there! I'm Thierno Madiou Diallo<br><br>👨‍💻 Graduated Software Engineer at ALX Africa | 📊 Graduated Data Analyst at ALX | 📊 Data Science Learner | 📚 Tech Educator | 🎨 Graphic Designer<br><br>I'm passionate about solving real-world problems using software development and data science. I love building tools that empower communities from education to tourism, commerce, and tech empowerment in Africa.
 
+BUILDING COMPLEX AND HIGHLY SCALABLE SOFTWARE AND CLOUD PROJECT.
 
 ### 🚀 What I have done so far
 - 🛒 **E-commerce platform** for university campus students
 - 🌍 **Tolimoo Sport** Full stack sport streaming app (PWAs)
 - 🌍 **Tourism software** for Mamou (Guinea)
-- 🎓 **3Zero Club website** (frontend development)
-- 🛍️ **Selling Poutto** – local digital store project
-- 📄 **CV Application project** – dynamic CV generator
-- 🏨 **Hotel website** – user-friendly reservation and showcase site
 - 🏨 **Real State Management**: Admin dashboard to manage their properties and clients to browse and by them
 - 🌍 **Jobs board Portal Platform**: Full stack application with ready to use software
 - 🌍 **AirBNB**: Full stack clone using all technologies behind
