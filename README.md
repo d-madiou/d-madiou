@@ -1,6 +1,6 @@
 # About Me
 
-### Software Engineer & AWS Certified Solutions Architect
+### Software Engineer & AWS Solutions Architect Associate
 I design, build, and scale high-performance full-stack applications, real-time streaming engines, and data-driven cloud infrastructure. With a deep background in decoupled software architectures, data science, and technical education, my focus is on engineering resilient, highly available systems that solve complex real-world challenges across fintech, enterprise monitoring, and large-scale digital platforms.
 
 * **Core Focus:** Cloud-native deployments, high-throughput distributed systems (`Go`), and highly scalable database topologies.
